@@ -2,6 +2,11 @@ h1 {
   font-size: 60px;
 }
 
+@font-face {
+  font-family: aku;
+  src: url(Font/LithosPro-Regular.otf);
+}
+
 /* Landing start*/
 .banner {
   background-size: 100%;
